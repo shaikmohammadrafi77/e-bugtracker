@@ -13,8 +13,8 @@ python3.9 -m pip install --upgrade pip
 cd /home/ec2-user
 
 
- git clone https://github.com/shaikmohammadrafi77/CustomE-BugTracker.git
-   cd CustomE-BugTracker
+ git clone https://github.com/shaikmohammadrafi77/e-bugtracker.git
+   cd e-bugtracker
 
 # Create and activate virtual environment   
 python3.9 -m venv venv
